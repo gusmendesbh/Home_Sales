@@ -5,6 +5,7 @@ In this challenge, I used my knowledge of SparkSQL to determine key metrics abou
 
 ## Key Takeaways:
 Running a simple SQL query, and comparing results to cached and parquet data proved the efficiency of both methods over simple SQL.
+
 Query: ![image](https://github.com/gusmendesbh/Home_Sales/assets/94866814/b307287b-acb3-4308-88d3-9d9140d4b831)
 
 ### 1 - Unchached Data: 
