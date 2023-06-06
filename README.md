@@ -10,7 +10,7 @@ Query:
 
 ![image](https://github.com/gusmendesbh/Home_Sales/assets/94866814/b307287b-acb3-4308-88d3-9d9140d4b831)
 
-### 1 - Unchached Data: 
+### 1 - Uncached Data: 
  ![image](https://github.com/gusmendesbh/Home_Sales/assets/94866814/aac31069-bee5-4433-9400-ca45fb265f8e)
  - 1.54s run time
 
